@@ -1,4 +1,4 @@
-# visualizing time series data with ggplot2
+# visualizing time series data (eye tracking) with ggplot2
 rm(list=ls(all=T))
 library(dplyr)
 library(ggplot2)
